@@ -1,8 +1,6 @@
 body {
-  overflow-x: hidden;
-}
-
-body {
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
     background-image: url('./images/back.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -43,19 +41,11 @@ body {
   text-decoration: none;
 }
 
-
 .menu-toggle {
   display: none;
   font-size: 2rem;
   cursor: pointer;
 }
-
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
-
-
 
 .middle-container {
   
@@ -86,7 +76,6 @@ p{
   font-family: Arial, sans-serif;
   
 }
-
 .footer{
  display: flex;
  justify-content: center;
